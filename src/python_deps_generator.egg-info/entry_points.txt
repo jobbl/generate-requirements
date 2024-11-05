@@ -1,0 +1,2 @@
+[console_scripts]
+generate-deps = python_deps_generator.cli:main
